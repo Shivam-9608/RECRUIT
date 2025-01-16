@@ -1,0 +1,16 @@
+
+.sign{
+    color: rgb(255, 255, 255) !important; 
+    font-size: 1.5rem;
+    border: 1px solid rgb(255, 255, 255) !important;
+}
+
+.img {
+    width: 150px; /* Adjust as per your design */
+    height: auto;
+    display: block;
+  }
+  
+.EVENT{
+    color: white !important;
+}
